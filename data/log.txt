@@ -1,0 +1,49 @@
+Filename: image1.jpg
+Initial file size: 208.478515625 KB
+Compressed file size: 116.033203125 KB
+Dimension: 640, 953
+Encryption time: 0.039704322814941406 s
+Compression time: 17.803823947906494 s
+
+Filename: image2.jpg
+Initial file size: 1.3682613372802734 MB
+Compressed file size: 748.158203125 KB
+Dimension: 1920, 2858
+Encryption time: 0.1636350154876709 s
+Compression time: 260.0095899105072 s
+
+Filename: 256image.jpg
+Initial file size: 58.38671875 KB
+Compressed file size: 12.0361328125 KB
+Dimension: 256, 256
+Encryption time: 0.014156818389892578 s
+Compression time: 4.738276720046997 s
+
+Filename: 128image.jpg
+Initial file size: 31.0634765625 KB
+Compressed file size: 4.5537109375 KB
+Dimension: 128, 128
+Encryption time: 0.0075261592864990234 s
+Compression time: 0.9687104225158691 s
+
+Filename: 512image.jpg
+Initial file size: 93.6552734375 KB
+Compressed file size: 49.1826171875 KB
+Dimension: 512, 512
+Encryption time: 0.013535499572753906 s
+Compression time: 6.831017732620239 s
+
+Filename: 1024image.jpg
+Initial file size: 81.751953125 K/B
+Compressed file size: 35.0830078125 KB
+Dimension: 1024, 1024
+Encryption time: 0.01713275909423828 s
+Compression time: 23.498138189315796 s
+
+Filename: 256image.jpg
+Initial file size: 58.38671875 KB
+Compressed file size: 12.0361328125 KB
+Dimension: 256, 256
+Encryption time: 0.006493568420410156 s
+Compression time: 1.8067007064819336 s
+
